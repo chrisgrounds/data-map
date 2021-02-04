@@ -1,0 +1,17 @@
+{
+  "name": "data-map",
+  "version": "0.0.1",
+  "description": "",
+  "main": "DataMap.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Christopher Grounds"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.12.13",
+    "jest": "^26.6.3"
+  }
+}
