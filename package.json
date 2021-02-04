@@ -1,6 +1,6 @@
 {
   "name": "@iamchris/data-map",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A wrapper around Map which imitates some functionality of the Haskell Data.Map.Strict library",
   "main": "DataMap.js",
   "scripts": {
